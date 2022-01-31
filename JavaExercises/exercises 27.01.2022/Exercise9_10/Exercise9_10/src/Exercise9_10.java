@@ -9,6 +9,7 @@ public class Exercise9_10 {
 
             System.out.printf("%d * %d = %d \n",num, i,num*i);
         }
+        double pi=3.14;
         System.out.println("Choose your circle R");
         int r =scanner.nextInt();
         double circleperimeter = pi* r*r;
